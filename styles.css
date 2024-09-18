@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{
+	width:100%;
+}
+table,tr,td{
+	border:1px solid black;
+	table-layout:fixed;
+	margin-top:50px;
+	padding:1px;
+}
+.table2,td{
+	padding:10px;	
+}
